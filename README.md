@@ -3,6 +3,7 @@ Backend for an appointment calendar application I am working on.
 
 
 Brief:
+
 -Must work in both a weekly and monthly view.
 
 -Must show all appointments booked by the customer currently logged in.
